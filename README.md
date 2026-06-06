@@ -31,14 +31,9 @@ Conventional stroke severity models suffer from **catastrophic forgetting** when
 
 ## 📊 Visualizations
 
-### Average Accuracy over Tasks
-![Average Accuracy](./plots/avg_accuracy.png)
-
-### Backward Transfer (Forgetting Measure)
-![Backward Transfer](./plots/backward_transfer.png)
-
-### Fisher Information Heatmap (First Conv Layer)
-![Fisher Heatmap](./plots/fisher_heatmap.png)
+| Average Accuracy | Backward Transfer | Fisher Heatmap |
+|----------------|------------------|----------------|
+| ![Avg Acc](./plots/avg_accuracy.png) | ![BWT](./plots/backward_transfer.png) | ![Fisher](./plots/fisher_heatmap.png) |
 
 Higher bars indicate filters that EWC identified as **critical** for stroke features – these are heavily protected during new learning.
 
