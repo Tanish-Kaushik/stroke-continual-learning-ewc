@@ -8,7 +8,7 @@
 # Continual Learning for Ischemic Stroke Severity Assessment
 
 **Target Professor:** Kavitha Muthu Subash (Nagasaki University)  
-**Research Theme:** Pattern Recognition and Understanding / Information Applied Mathematics  
+**Research Theme:** Pattern Recognition and Understanding  
 **Aligns with funded grant:** *"A data-saving and self-supervised deep learning system for continuous ischemic stroke assessment"* (2024–2027)
 
 ## 📌 Problem Statement
