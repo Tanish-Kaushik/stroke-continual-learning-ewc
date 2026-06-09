@@ -27,7 +27,7 @@ Conventional stroke severity models suffer from **catastrophic forgetting** when
 | Baseline (fine-tuning)  |         -35.2%          |   Severe   |
 |        EWC only         |         -14.8%          |  Moderate  |
 |      Replay only        |          -8.3%          |    Low     |
-|    **EWC + Replay**     |        **-2.1%**        `|**Near-zero**|
+|    **EWC + Replay**     |        **-2.1%**        |**Near-zero**|
 
 ## 📊 Visualizations
 
