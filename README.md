@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Research Grant](https://img.shields.io/badge/Grant-2024–2027-orange)]()
 
-> **Professor**: Kavitha Muthu Subash (Nagasaki University)  
+> **For Professor**: Kavitha Muthu Subash (Nagasaki University)  
 > **Research Theme**: Pattern Recognition and Understanding  
 > **Funded Grant**: *"A data-saving and self-supervised deep learning system for continuous ischemic stroke assessment"* (2024–2027)
 
